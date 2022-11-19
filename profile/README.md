@@ -10,6 +10,6 @@
 
 # Socials
 
-[Twitter](https://twitter.com/SniplyOfficial)
+🦜 [Twitter](https://twitter.com/SniplyOfficial)
 
-[YouTube](https://www.youtube.com/@sniplyOfficial)
+🎥 [YouTube](https://www.youtube.com/@sniplyOfficial)
