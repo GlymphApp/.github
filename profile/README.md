@@ -1,4 +1,4 @@
-![sniply_banner_github](https://user-images.githubusercontent.com/92243459/202886067-b084777e-24b7-4f40-80f6-9d12eca62b0a.png)
+![sniply_banner_github](https://user-images.githubusercontent.com/92243459/202886139-2e349ccc-44cd-40b3-bbe8-10dd297c31ab.png)
 
 # Sniply
 
