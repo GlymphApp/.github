@@ -1,3 +1,5 @@
+![sniply_banner_github](https://user-images.githubusercontent.com/92243459/202886067-b084777e-24b7-4f40-80f6-9d12eca62b0a.png)
+
 # Sniply
 
 ⭐ Sniply is an internet company building apps.
