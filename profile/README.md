@@ -1,6 +1,6 @@
 # Glymph
 
-![sniply_banner_github](https://user-images.githubusercontent.com/92243459/202886139-2e349ccc-44cd-40b3-bbe8-10dd297c31ab.png)
+![sniply_banner_github](https://i.imgur.com/9ilkYJ7.png)
 
 # About
 
