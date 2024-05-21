@@ -1,7 +1,6 @@
 # Glymph
 
-![sniply_banner_github](https://i.imgur.com/9ilkYJ7.png)
-
+![banner_light](https://github.com/GlymphApp/.github/assets/92243459/16261da0-2ef1-4919-922b-5202133c8541)
 # About
 
 ⭐ Glymph is an internet company building apps.
