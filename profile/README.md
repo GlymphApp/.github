@@ -14,5 +14,5 @@
 # Socials
 
 - [Twitter](https://twitter.com/GlymphApp)
-- [YouTube](https://www.youtube.com/@sniplyOfficial)
+- [YouTube](https://www.youtube.com/@Glymph)
 
