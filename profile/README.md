@@ -3,11 +3,11 @@
 ![banner_light](https://github.com/GlymphApp/.github/assets/92243459/16261da0-2ef1-4919-922b-5202133c8541)
 # About
 
-⭐ Glymph is an internet company building apps.
+⭐ Glymph from SnapCode is a product aimed to bring a new way for hosting communities efficiently and effectively.
 
 ## What exactly are we building?
 
-🚀 Well simply thats currently a secret, but you'll get to know, when we launch!
+🚀 We are currently building an app which helps starting your next community very easy and a new way to do it.
 
 👽 Clue: its related to social networking and unique.
 
