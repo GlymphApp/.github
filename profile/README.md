@@ -9,8 +9,6 @@
 
 🚀 We are currently building an app which helps starting your next community very easy and a new way to do it.
 
-👽 Clue: its related to social networking and unique.
-
 # Socials
 
 - [Twitter](https://twitter.com/GlymphApp)
